@@ -1,0 +1,12 @@
+h2  {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(215, 224, 224);
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+    border: 5px solid rgb(63, 64, 75);    
+    border-style: solid;
+}
