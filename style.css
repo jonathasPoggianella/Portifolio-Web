@@ -1,4 +1,9 @@
+h1 {
+    color: darkgrey;
+}
+
 h2  {
+    color: darkorange;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 body{
@@ -10,9 +15,25 @@ img {
     border: 5px solid rgb(63, 64, 75);    
     border-style: solid;
 }
-div {
-    background-color: azure;
+header {
+    margin-bottom: 20px;
 }
 li {
     text-align: center;
+}
+
+body {
+    background-image: url(https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif);
+    background-size: contain;
+}
+
+div {
+    background-color:cadetblue ;
+    width: 300px;
+    margin: auto;
+    border: solid;
+    border-radius: 5%;
+    font-size: large;
+    font-style: italic;
+    opacity: 0.9;
 }
