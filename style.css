@@ -14,12 +14,14 @@ img {
     border-radius: 50%;
     border: 5px solid rgb(63, 64, 75);    
     border-style: solid;
+    
 }
 header {
     margin-bottom: 20px;
 }
 li {
     text-align: center;
+    color: rgb(rgb(112, 58, 58), rgb(69, 90, 69), rgb(33, 33, 231));
 }
 
 body {
@@ -28,13 +30,13 @@ body {
 }
 
 div {
-    background-color:cadetblue ;
+    background-color:rgb(79, 121, 121) ;
     width: 300px;
     margin: auto;
     border: solid;
     border-radius: 5%;
     font-size: large;
     font-style: italic;
-    opacity: 0.9;
+    opacity: 0.8;
     margin-top: 20px;
 }
