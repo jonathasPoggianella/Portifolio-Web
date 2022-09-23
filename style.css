@@ -6,19 +6,17 @@ h2  {
     color: darkorange;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-body{
-    background-color: rgb(215, 224, 224);
-    text-align: center;
-}
+
 img {
     border-radius: 50%;
     border: 5px solid rgb(63, 64, 75);    
-    border-style: solid;
-    
+    border-style: solid;  
 }
+
 header {
     margin-bottom: 20px;
 }
+
 li {
     text-align: center;
     color: rgb(rgb(112, 58, 58), rgb(69, 90, 69), rgb(33, 33, 231));
@@ -27,6 +25,7 @@ li {
 body {
     background-image: url(https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif);
     background-size: 100%;
+    text-align: center;
 }
 
 div {
